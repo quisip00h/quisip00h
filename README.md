@@ -7,7 +7,7 @@ preflight → build → QA
 the spec is the prompt, taste becomes rules, rules become checks, checks get tested
 ```
 
-Came up through UX research and service design in agencies (Toyota, Samsung, Siemens, Fjällräven). Freelance now: fast, hands-on, I build what I design and deliver it.
+Came up through UX research and service design in agencies (Siemens, Allianz, Fjällräven, Samsung, plus user research for Toyota). Freelance now: fast, hands-on, I build what I design and deliver it.
 
 **Start here:** [design-system-skills](https://github.com/quisip00h/design-system-skills). Three Figma skills (preflight, build, QA) that make an agent build on the real library through the MCP and prove it did, `ui-lint` for the same check on agent-written code, an agent governance template, a spec template that doubles as the build prompt, 35 citable UX rules, and a design-to-dev handover blueprint. Extracted from enterprise work, client details removed.
 
