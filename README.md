@@ -1,6 +1,6 @@
 ### Hi, I'm Kristoffer 👋
 
-**Freelance · Spec-driven product development for complex B2B products.** I set up product teams that go from user research to shipped product in weeks, and ship the right thing. I ship with Claude Code. This GitHub is the engine room: coding agents that build on a team's own design system, and the checks that prove they did.
+**Freelance. Spec-driven product development for complex B2B products.** I set up product teams that go from user research to shipped product in weeks, and ship the right thing. I ship with Claude Code. This GitHub is the engine room: coding agents that build on a team's own design system, and the checks that prove they did.
 
 ```
 preflight → build → QA
